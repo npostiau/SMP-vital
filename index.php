@@ -3,7 +3,7 @@ function getFiles(){
     $files=array();
     if($dir=opendir('./html_validations/.')){
         while($file=readdir($dir)){
-            if($file!='.' && $file!='..' && $file!=basename(__FILE__)){
+            if($file!='.' && $file!='..' && $file!='.gitignore' && $file!=basename(__FILE__)){
                 $files[]=$file;
             }   
         }
