@@ -1,0 +1,9 @@
+sh createReport.sh -a PU -b name -c ref -d relnoPU -e refnoPU -f rel25 -g ref25
+
+sh createReport.sh -a PU -b TEST_name -c 8_0_0_pre6 -d relnoPU -e CMSSW_8_0_0_pre6-80X_mcRun2_asymptotic_v4-v1 -f rel25 -g CMSSW_8_0_0_pre6-PU25ns_80X_mcRun2_asymptotic_v4-v1
+
+sh createReport.sh -a pmx -b name -c ref -f rel25 -g ref25
+
+
+https://cmsweb.cern.ch/dqm/relval-test/session
+https://cmsweb.cern.ch/dqm/relval/session

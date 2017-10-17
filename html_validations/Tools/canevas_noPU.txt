@@ -1,0 +1,81 @@
+Validation of CMSSW_RELEASE wrt CMSSW_REFERENCE
+
+
+
+
+Report :
+---------------
+
+
+no PU case :
+-----------------------------------------------------------------------------------------------
+RELEASE_noPU	vs	REFERENCE_noPU
+
+Double Electron : OK 
+
+Single Electron : OK
+
+Double Muon : OK
+
+Single Muon : OK
+
+Double Photon : OK
+
+Single Photon : OK
+
+MuEG : OK
+
+Single Jet : OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links :
+------------------
+
+
+[1] 
+
+no PU case :
+-----------------------------------------------------------------------------------------------
+
+Double Electron :
+DoubleElectronLink_noPU
+
+Single Electron :
+SingleElectronLink_noPU
+
+Double Muon :
+DoubleMuonLink_noPU
+
+Single Muon :
+SingleMuonLink_noPU
+
+Double Photon :
+DoublePhotonLink_noPU
+
+Single Photon :
+SinglePhotonLink_noPU
+
+MuEG :
+MuEGLink_noPU
+
+Single Jet :
+SingleJetLink_noPU
+
+
+
+

@@ -1,0 +1,77 @@
+Validation of CMSSW_RELEASE wrt CMSSW_REFERENCE
+
+
+
+Report:
+---------------
+
+
+PU25ns case:
+-----------------------------------------------------------------------------------------------
+RELEASE_25 vs  REFERENCE_25
+
+Double Electron: OK
+
+Single Electron: OK
+
+Double Muon: OK
+
+Single Muon: OK
+
+Double Photon: OK
+
+Single Photon: OK
+
+MuEG: OK
+
+Single Jet: OK
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links:
+------------------
+
+[1] 
+
+All the links used for this validation can be found here: https://npostiau.web.cern.ch/npostiau/HLT_SMP_Validations/html_validations/CMSSW_RELEASE.html
+
+
+PU25ns case:
+-----------------------------------------------------------------------------------------------
+
+Double Electron:
+DoubleElectronLink_25
+
+Single Electron:
+SingleElectronLink_25
+
+Double Muon:
+DoubleMuonLink_25
+
+Single Muon:
+SingleMuonLink_25
+
+Double Photon:
+DoublePhotonLink_25
+
+Single Photon:
+SinglePhotonLink_25
+
+MuEG:
+MuEGLink_25
+
+Single Jet:
+SingleJetLink_25
