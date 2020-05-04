@@ -71,7 +71,7 @@ sed "s/CMSSW_REFERENCE/CMSSW_$CMSSW_REF/g" tmp2.txt > tmp3.txt
 #Create links now
 beginning="https:\/\/cmsweb.cern.ch\/dqm\/relval\/start?runnr=1;dataset=\/"
 middle="\/DQMIO;sampletype=offline_relval;filter=all;referencepos=overlay;referenceshow=all;referenceobj1=other%3A%3A\/"
-directory="\/DQMIO%3A;referenceobj2=none;referenceobj3=none;referenceobj4=none;search=;striptype=object;stripruns=;stripaxis=run;stripomit=none;workspace=HLT;size=XL;root=HLT\/Layouts\/SMP\/"
+directory="\/DQMIO%3A%3A;referenceobj2=none;referenceobj3=none;referenceobj4=none;search=;striptype=object;stripruns=;stripaxis=run;stripomit=none;workspace=HLT;size=XL;root=HLT\/Layouts\/SMP\/"
 end=";focus=;zoom=no;"
 		
 
